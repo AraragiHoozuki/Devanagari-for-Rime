@@ -1,0 +1,134 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Devanagari
+#
+# author: Lohengrin(Lolingua)  <lolingua@mail.ru>
+
+#
+
+---
+name: Devanagari
+version: "0.1"
+sort: original
+...
+
+# 簡單元音
+अ	\a
+आ	\aa
+इ	\i
+ई	\ii
+उ	\u
+ऊ	\uu
+ऋ	\R
+ॠ	\RR
+ऌ	\L
+ॡ	\LL
+
+# 二、三合元音
+ए	\ai
+ऐ	\aai
+ओ	\au
+औ	\aau
+
+# 附標元音
+ा	aa
+ि	i
+ी	ii
+ु	u
+ू	uu
+ृ	R
+ॄ	RR
+ॢ	L
+ॣ	LL
+े	ai
+ै	aai
+ो	au
+ौ	aau
+
+# anusvara
+ं	M
+
+# visarga
+ः	H
+
+# anunasika
+ँ	MM
+
+# virama
+्	0
+
+
+# 軟齶音
+क	k
+क	ka
+ख	kh
+ख	kha
+ग	g
+ग	ga
+घ	gh
+घ	gha
+ङ	ng
+ङ	nga
+
+# 軟齶音
+च	c
+च	ca
+छ	ch
+छ	cha
+ज	j
+ज	ja
+झ	jh
+झ	jha
+ञ	nj
+ञ	nja
+य	y
+य	ya
+श	sj
+श	sja
+
+# 捲舌音
+ट	T
+ट	Ta
+ठ	Th
+ठ	Tha
+ड	D
+ड	Da
+ढ	Dh
+ढ	Dha
+ण	N
+ण	Na
+र	r
+र	ra
+ष	S
+ष	Sa
+
+#齒音
+त	t
+त	ta
+थ	th
+थ	tha
+द	d
+द	da
+ध	dh
+ध	dha
+न	n
+न	na
+ल	l
+ल	la
+स	s
+स	sa
+
+#脣音
+प	p
+प	pa
+फ	ph
+फ	pha
+ब	b
+ब	ba
+भ	bh
+भ	bha
+म	m
+म	ma
+व	v
+व	va
